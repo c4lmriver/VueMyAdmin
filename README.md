@@ -1,7 +1,7 @@
 # <img src="https://i.postimg.cc/fRPfG7wC/log-menu.png" width="300">
 
 A PhpMyAdmin (and no more pre-computers era) alternative written in Vue.js with Ant Design !  
-1st year Uni group project.
+2nd year Uni group project.
 
 ## Screenshots
 [![vuemyadmin-demo.gif](https://i.postimg.cc/Ssm09bwJ/vuemyadmin-demo.gif)](https://postimg.cc/hJZ3F64B)
